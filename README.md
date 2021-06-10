@@ -1,4 +1,4 @@
-# -JavaScript
+# JavaScript
 
 REOL
 => Read Evaluate Print Loop
